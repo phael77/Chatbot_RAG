@@ -10,7 +10,7 @@ Com isso em mente eu quis brincar e desenvolvi uma mini RAG sobre CounterStrike 
 
 Achei bem simples e ao mesmo tempo interessante, a codificação foi feita em Jupyter Notebook, para acompanhar o processo de cada etapa do desenvolvimento.
 
-
+---
 
 Developing a Mini Chatbot with RAG for Learning Purposes
 
